@@ -6,7 +6,7 @@
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
-    "build": "strapi build",
+    "build": "nvm use 14.16.1 strapi build",
     "strapi": "strapi"
   },
   "devDependencies": {},
