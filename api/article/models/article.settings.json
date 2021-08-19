@@ -48,6 +48,12 @@
     "author": {
       "via": "articles",
       "model": "writer"
+    },
+    "Test": {
+      "type": "dynamiczone",
+      "components": [
+        "sections.test-1"
+      ]
     }
   }
 }

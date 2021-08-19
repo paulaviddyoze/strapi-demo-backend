@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_test_1s",
+  "info": {
+    "name": "Test 1",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Date": {
+      "type": "date"
+    }
+  }
+}
